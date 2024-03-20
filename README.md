@@ -21,9 +21,9 @@ El puente de Brooklyn (único acceso a Brooklyn para los mensajeros): deja pasar
 La Matrix: deja entrar a quien pueda hacer una llamada.
 
 3. Por el momento, nuestra empresa de mensajería tiene 3 mensajeros, con éstas características:
-Chuck Norris: Chuck norris siempre pesó y seguirá pesando 900 kg por toda la eternidad. Puede llamar a cualquier persona del universo con sólo llevarse el pulgar al oído y el meñique a la boca.
-Neo: vuela, así que no pesa nada. Y anda con celular, el muy canchero. El tema es que a veces no tiene crédito.
-Lincoln Hawk: Su peso varía con el tiempo. Viaja en bicicleta ó camión. Si viaja en bicicleta, el peso que cuenta es el suyo propio + 10kg por la bici. Si viaja en camión, su peso propio más media tonelada (peso del camión)  más media tonelada adicional por cada acoplado. Hawk no tiene un mango, gracias que tiene cubiertas, y no puede llamar a nadie.
+- Chuck Norris: Chuck norris siempre pesó y seguirá pesando 900 kg por toda la eternidad. Puede llamar a cualquier persona del universo con sólo llevarse el pulgar al oído y el meñique a la boca.
+- Neo: vuela, así que no pesa nada. Y anda con celular, el muy canchero. El tema es que a veces no tiene crédito.
+- Lincoln Hawk: Su peso varía con el tiempo. Viaja en bicicleta ó camión. Si viaja en bicicleta, el peso que cuenta es el suyo propio + 10kg por la bici. Si viaja en camión, su peso propio más media tonelada (peso del camión)  más media tonelada adicional por cada acoplado. Hawk no tiene un mango, gracias que tiene cubiertas, y no puede llamar a nadie.
 
 **Aclaraciones**
 
